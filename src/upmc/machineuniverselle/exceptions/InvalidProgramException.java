@@ -1,5 +1,9 @@
 package upmc.machineuniverselle.exceptions;
 
+/**
+ * @author KASSAR Mohamed Tarek
+ *
+ */
 
 public class InvalidProgramException extends UMException {
 	private static final long serialVersionUID = 8974955599455820439L;
