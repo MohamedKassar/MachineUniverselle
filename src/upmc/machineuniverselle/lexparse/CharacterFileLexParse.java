@@ -6,8 +6,9 @@ import java.io.FileReader;
 import java.io.IOException;
 
 import upmc.machineuniverselle.exceptions.InvalidProgramException;
-
-/*
+/**
+ * @author KASSAR Mohamed Tarek
+ *
  * Treat text files
  */
 public class CharacterFileLexParse implements ILexParse {
