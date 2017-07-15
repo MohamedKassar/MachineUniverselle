@@ -7,7 +7,9 @@ import java.nio.file.Paths;
 
 import upmc.machineuniverselle.exceptions.InvalidProgramException;
 
-/*
+/**
+ * @author KASSAR Mohamed Tarek
+ *
  * Treat binary files
  */
 public class BinaryFileLexParse implements ILexParse {
