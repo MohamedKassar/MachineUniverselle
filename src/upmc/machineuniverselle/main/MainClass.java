@@ -8,6 +8,11 @@ import upmc.machineuniverselle.lexparse.BinaryFileLexParse;
 import upmc.machineuniverselle.lexparse.CharacterFileLexParse;
 import upmc.machineuniverselle.lexparse.ILexParse;
 
+/**
+ * @author KASSAR Mohamed Tarek
+ *
+ */
+
 public class MainClass {
 
 	private static void runFile(String file) {
