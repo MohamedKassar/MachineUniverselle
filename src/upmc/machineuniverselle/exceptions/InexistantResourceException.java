@@ -1,5 +1,10 @@
 package upmc.machineuniverselle.exceptions;
 
+/**
+ * @author KASSAR Mohamed Tarek
+ *
+ */
+
 public class InexistantResourceException extends UMException {
 
 	private static final long serialVersionUID = -7918932081358339392L;
