@@ -1,5 +1,10 @@
 package upmc.machineuniverselle.utilities;
 
+/**
+ * @author KASSAR Mohamed Tarek
+ *
+ */
+
 public class Utility {
 	
 	/*
